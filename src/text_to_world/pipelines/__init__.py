@@ -1,0 +1,1 @@
+"""Pipeline stages. Each takes a SceneGraph in and returns it enriched."""
