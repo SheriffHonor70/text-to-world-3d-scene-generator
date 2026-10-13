@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.dll
+*.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Generated scene caches
+.scene_cache/
+.generated/
+*.glb.bak
+*.ply.tmp
+*.splat.partial
+
+# Model weights (pulled at runtime, never committed)
+models/checkpoints/*.safetensors
+models/checkpoints/*.ckpt
+models/checkpoints/*.gguf
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
