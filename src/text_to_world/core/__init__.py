@@ -1,0 +1,1 @@
+"""Core scene engine: pipeline, graph, materials, lighting."""
