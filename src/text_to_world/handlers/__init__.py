@@ -1,0 +1,1 @@
+"""Feature handlers — glue between the GUI/CLI and the core engine."""
